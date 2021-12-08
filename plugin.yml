@@ -1,0 +1,8 @@
+name: MantapCraft
+main: com.vulkan1k.MantapCraft
+version: 0.0.1
+api-version: 1.17
+commands:
+  mantapcraft:
+    description: Shows the plugin description.
+    usage: /mantapcraft
